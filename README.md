@@ -119,8 +119,29 @@ python pnf.py -rs RS/params_flops/
 ## 10. Trained models
 
 - Since all the experiments are conducted on idiap's computer, I did not re-run them when writing this readme.
-- All the trained models can be download via Baidu clound disk:  [https://pan.baidu.com/s/1rrGUjeoL5QheTPCkt9vmuQ?pwd=tifs](https://pan.baidu.com/s/1rrGUjeoL5QheTPCkt9vmuQ?pwd=tifs)
+- All the trained models can be download via Baidu cloud disk:  [https://pan.baidu.com/s/1rrGUjeoL5QheTPCkt9vmuQ?pwd=tifs](https://pan.baidu.com/s/1rrGUjeoL5QheTPCkt9vmuQ?pwd=tifs)
 
 ## 11. Contact and collaboration
 
 If you find this work helpful to you and want to collaborate with me, please contact me (Junduan Huang) via Email: runrunjun@163.com.
+
+## 12. Warning: **Note About the License:**
+
+All files made available in this repository is released under the BSD.3 license, which is described in the file LICENSE.txt .
+
+## 13. Dataset
+1. MFFV-N dataset:
+- Paper: https://ieeexplore.ieee.org/document/10741574
+- Repository: https://github.com/SCUT-BIP-Lab/MFFV
+2. LFMB-3DFB dataset:
+- Paper: https://ieeexplore.ieee.org/document/9484369, and https://ieeexplore.ieee.org/document/9795663/
+- Repository: https://github.com/SCUT-BIP-Lab/LFMB-3DFB
+
+## 14. Citation
+@ARTICLE{11236466,
+  author={Huang, Junduan and Bhattacharjee, Sushil and Marcel, Sébastien and Kang, Wenxiong},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={Study of Full-View Finger Vein Biometrics on Redundancy Analysis and Dynamic Feature Extraction}, 
+  year={2025(Early Access)},
+  keywords={Biometrics;Redundancy;Feature extraction;Fingers;Transformers;Imaging;Authentication;Taxonomy;Convolutional neural networks;Cameras;Biometrics;vein recognition;finger vein;full-view;dynamic Transformer},
+  doi={10.1109/TIFS.2025.3630891}}

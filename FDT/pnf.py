@@ -1,3 +1,18 @@
+"""
+===============================================================================
+Author(Copyright (C) 2025): Junduan Huang, Sushil Bhattacharjee, Sébastien Marcel, Wenxiong Kang.
+Institution: 
+School of Artificial Intelligence at South China Normal University, Foshan, 528225, China;
+School of Automation Science and Engineering at South China University of Technology, Guangzhou, 510641, China;
+Biometrics Security and Privacy Group at Idiap Research Institute, Martigny, 1920, Switzerland.
+
+This software is distributed under the terms described in the LICENSE file 
+located in the parent directory of this source code repository. 
+
+For inquiries, please contact the author at runrunjun@163.com
+===============================================================================
+"""
+
 import torch.nn as nn
 from thop import profile
 import torch
